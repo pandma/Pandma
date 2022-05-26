@@ -1,19 +1,11 @@
-[### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...]
-
 <h1 align="center">Hi 👋, I'm Pablo Andreu</h1>
-<h3 align="center">Full-Stack Developer From 🇪🇸</h3>
+<h3 align="center">Full-Stack Developer From &#x1f1ea;&#x1f1f8; </h3>
 
 - 🔭 I’m currently working on [VanmeUp](https://vanmeup.netlify.app/)
-
+- 🌱 I’m currently learning [Django,TypeScript]
+- 🔭 I’m currently working on [Finding a New Job ;)]
+- ⚡ Hobbies:[🏄]
+- 💬 Ask me about [NodeJs]
 - 📫 How to reach me **pablo.andreu.martin@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
