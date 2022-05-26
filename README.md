@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VanmeUp](https://vanmeup.netlify.app/)
 - 🌱 I’m currently learning [Django,TypeScript]
-- 🔭 I’m currently working on [Finding a New Job ;)]
+- 🤝 I’m looking for on [Finding a New Job ;)]
 - ⚡ Hobbies:[🏄]
 - 💬 Ask me about [NodeJs]
 - 📫 How to reach me **pablo.andreu.martin@gamil.com**
