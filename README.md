@@ -4,8 +4,14 @@
 - 🔭 I’m currently working on [VanmeUp](https://vanmeup.netlify.app/)
 - 🌱 I’m currently learning [Django,TypeScript]
 - 🤝 I’m looking for [Finding a New Job ;)]
-- ⚡ Hobbies:[🏄]
+- ⚡ Hobbies [🏄]
 - 💬 Ask me about [NodeJs]
+- ⚡ Fun fact [
+One hundred little bugs in the code
+One hundred little bugs.
+Fix a bug, push the fix,
+One hundred little bugs in the code.
+]
 - 📫 How to reach me **pablo.andreu.martin@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
