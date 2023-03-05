@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pablo </h1>
 <h3 align="center">Full-Stack Developer From 🇪🇸 </h3>
 
-- 🔭 I’m currently working on [VanmeUp](https://vanmeup.netlify.app/)
-- 🌱 I’m currently learning [Django,TypeScript]
-- 🤝 I’m looking for [Finding a New Job ;)]
+- 🔭 I’m currently working on [FIVA](https://fiva.es/)
+- 🌱 I’m currently learning [TensorFlow, Machine Learning]
 - ⚡ Hobbies [🏄]
-- 💬 Ask me about [NodeJs]
+- 💬 Ask me about [Node.js]
 - ⚡ Fun fact [
 One hundred little bugs in the code
 One hundred little bugs.
 Fix a bug, push the fix,
 One hundred little bugs in the code.
 ]
-- 📫 How to reach me **pablo.andreu.martin@gamil.com**
+- 📫 How to reach me, **pablo.andreu.martin@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
