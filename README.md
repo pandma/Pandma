@@ -22,6 +22,5 @@ One hundred little bugs in the code.
 <a> <img src="https://res.cloudinary.com/dzzkeb6xp/image/upload/v1679300629/png-clipart-python-programming-language-computer-programming-basic-saintgermainenlaye-text-logo-thumbnail-removebg-preview_wc3wec.png" alt="mongodb" width="40" height="40"/> </a> 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
