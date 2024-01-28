@@ -2,7 +2,7 @@
 <h2 align="center">🌟 Full-Stack Developer from 🇪🇸</h2>
 
 <p align="center">
-  <img src="https://pandma.netlify.app/logo.png" width="500" height="300"/>
+  <img src="https://pandma.netlify.app/logo.png" width="400" height="300"/>
 </p>
 
 - 🔭 I’m currently working on [FIVA](https://fiva.es/)
