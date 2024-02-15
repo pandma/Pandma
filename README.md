@@ -15,7 +15,7 @@ One hundred little bugs.
 Fix a bug, push the fix,
 One hundred little bugs in the code.
 ]
-- 📫 How to reach me, **pablo.andreu.martin@gamil.com**
+- 📫 How to reach me, **pablo.andreu.martin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
