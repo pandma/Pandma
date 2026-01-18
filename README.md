@@ -8,14 +8,11 @@
 - 🔭 I’m currently working on [Fiva Energía](https://fiva.es/)
 - 🌱 I’m currently learning [TensorFlow, Machine Learning]
 - ⚡ Hobbies [🏄]
-- 💬 Ask me about [Node.js]
-- ⚡ Fun fact [
+- ⚡
 One hundred little bugs in the code
 One hundred little bugs.
 Fix a bug, push the fix,
 One hundred little bugs in the code.
-]
-- 📫 How to reach me, **pablo.andreu.martin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
