@@ -6,8 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on [Fiva Energía](https://fiva.es/)
-- 🌱 I’m currently learning [TensorFlow, Machine Learning]
-- ⚡ Hobbies [🏄]
 - ⚡
 One hundred little bugs in the code
 One hundred little bugs.
@@ -17,11 +15,3 @@ One hundred little bugs in the code.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-andreu-martin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-andreu-martin/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p 
-<a> <img src="https://res.cloudinary.com/dzzkeb6xp/image/upload/v1679300629/png-clipart-python-programming-language-computer-programming-basic-saintgermainenlaye-text-logo-thumbnail-removebg-preview_wc3wec.png" alt="mongodb" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-</p>
-
