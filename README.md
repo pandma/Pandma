@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Pablo</h1>
-<h2 align="center">🌟 Full-Stack Developer from 🇪🇸</h2>
+<h2 align="center">Adding bugs to the source code from 🇪🇸</h2>
 
 <p align="center">
   <img src="https://pandma.netlify.app/logo.png" width="300" height="200"/>
